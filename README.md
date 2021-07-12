@@ -6,13 +6,13 @@
     <img align="left" alt="Jay's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-1K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="#">
-    <img align="left" alt="SachinChaurasiya Blog" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img align="left" alt="#" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
 
 ---
-<h4 align="center">A passionate Data Science enthusiast from India.</h4>
+<h2 align="center">A passionate Data Science enthusiast from India.</h2>
 
 ---
 
