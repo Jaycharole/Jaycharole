@@ -83,6 +83,7 @@ Well, I write blogs with the perspective of improving myself at every point of t
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/> </a>
 
 ---
 <h3 align="left">IDE's is use:</h3>
@@ -93,7 +94,7 @@ Well, I write blogs with the perspective of improving myself at every point of t
 <a href="#" target="_blank"> <img loading="lazy" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg" alt="pycharm" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img loading="lazy" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="atom" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" alt="brackets" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/> </a>
+
  </p>
 ---
 
