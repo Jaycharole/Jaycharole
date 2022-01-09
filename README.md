@@ -98,15 +98,6 @@ Well, I write blogs with the perspective of improving myself at every point of t
  </p>
 ---
 
-<div align="center">
-  
-  ![JayCharole's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jaycharole&theme=react&hide_border=true)
-
-<br/>
-
-  ![JayCharole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaycharole&show_icons=true&theme=react)
-  
-</div>
 
 # Github Stats 📈📊
 
