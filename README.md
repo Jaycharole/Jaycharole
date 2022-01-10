@@ -48,55 +48,182 @@ Well, I write blogs with the perspective of improving myself at every point of t
   
   
 ---
+# Languages and Tools 🛠
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <br/>Python
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/pandas.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <br/> Pandas
+   </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+      </a>
+      <br>NumPy
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
+      </a>
+      <br>Matplotlib
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Seaborn
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
+      </a>
+      <br>Plotly
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+      </a>
+      <br>Flask
+    </td> 
+  </tr>
+  <tr> 
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/streamlit.svg" alt="streamlit" width="40" height="40"/>
+      </a>
+      <br>Streamlit
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+      </a>
+      <br>Power BI
+    </td> 
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+      </a>
+      <br>Tableau
+</td>
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/>
+      </a>
+      <br>GDS
+</td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="">
+      </a>
+      <br>IBM Cognos
+</td>
+  </tr>
+  
+<tr>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br>MySQL
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/>
+      </a>
+      <br>Oracle
+</td>
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo-db" width="40" height="40"/>
+      </a>
+      <br>Mongo DB
+</td> 
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+      </a>
+      <br>Cassandra
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+      <br>Hive
+</td>
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/selenium.svg" alt="selenium" width="40" height="40"/>
+      </a>
+      <br>Selenium
+</td> 
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
+      </a>
+      <br>BeautifulSoup
+</td>
+</tr>
 
-</p>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1ea5ec5988f613fc293e911bb5dad6ec53bfb371/icons/file_type_qlikview.svg" alt="qlik-view" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo-db" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/selenium.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png" alt="scrapy" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/> </a>
+<tr>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
+      </a>
+      <br>Django
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+      </a>
+      <br>HTML5
+</td>
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+      <br>CSS3
+</td> 
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      </a>
+      <br>Bootstrap
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
+      <br>MS Office
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+</td>
+<!--<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
+      </a>
+      <br>BeautifulSoup
+</td>-->
+</tr>
+</table>
 
----
-<h3 align="left">IDE's is use:</h3>
-<p align="left"> 
-<a href="#" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/360px-Spyder_logo.svg.png" alt="spyder" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg" alt="pycharm" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="atom" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" alt="brackets" width="40" height="40"/> </a>
-
- </p>
----
 
 
 # Github Stats 📈📊
