@@ -109,19 +109,21 @@ Well, I write blogs with the perspective of improving myself at every point of t
       <br>Streamlit
     </td>
     
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
       </a>
       <br>Power BI
-    </td> 
-    <td align="center" width="96">
+ </td> 
+    
+ <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
       </a>
       <br>Tableau
 </td>
-    <td align="center" width="96">
+    
+<td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVNZbKZOkpit_fOp3ONSt4o4vuU-8QqFGh3NNZmP_fGKHYz7qqPYrn_geo9EONdKiZzk&usqp=CAU" alt="Google Data studio" width="40" height="40"/>
       </a>
