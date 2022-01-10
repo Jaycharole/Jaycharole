@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
 
-  
+<center>
   <a href="https://www.linkedin.com/in/jay-charole-2ab005153/">
     <img align="left" alt="Jay's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-1K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-
+  
 <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
-
+</center>
 ---
 <h2 align="center">A passionate Data Science enthusiast from India.</h2>
 
----
+
 
 ### About me 🤓
 Hey hello everyone, myself Jay Ganesh Charole. Currently I am pursuing my Master's in Data Science and Big Data analytics. I may use complex words at times, but I'm really a simple guy who loves simplify complex things. 
