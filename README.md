@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
+<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1><a href="#">
+   <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
+ </a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jay-charole-2ab005153/">
     <img align = "left", alt="Jay's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-1K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
     
-<a href="#">
-   <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
- </a>
+
 </p>
 
 
