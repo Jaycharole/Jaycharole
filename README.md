@@ -1,5 +1,14 @@
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
 
+<p align="center">
+<a href="https://blog.sachinchaurasiya.dev/">
+    <img  alt="SachinChaurasiya Blog" title="Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+<a href="https://dev.to/sachinchaurasiya">
+   <img alt="Sachin-chaurasiya" width="32px" height="32px" title="Dev.to profile" src="https://user-images.githubusercontent.com/59080942/138895700-00d9c419-8d09-4be3-b78e-ad549d6c96dc.png"/>
+ </a>
+</p>
+
 <center>
   <a href="https://www.linkedin.com/in/jay-charole-2ab005153/">
     <img align="left" alt="Jay's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-1K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -7,7 +16,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
 </center>
----
+
 <h2 align="center">A passionate Data Science enthusiast from India.</h2>
 
 
