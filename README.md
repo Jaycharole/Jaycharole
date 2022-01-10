@@ -49,7 +49,6 @@ Well, I write blogs with the perspective of improving myself at every point of t
   
 ---
 # Languages and Tools 🛠
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -135,6 +134,12 @@ Well, I write blogs with the perspective of improving myself at every point of t
       </a>
       <br>IBM Cognos
 </td>
+<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+</td>
   </tr>
   
 <tr>
@@ -211,12 +216,7 @@ Well, I write blogs with the perspective of improving myself at every point of t
         <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
       <br>MS Office
 </td>
-<td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-</td>
+
 <!--<td align="center" width="96">
       <a href="#" >
         <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
@@ -225,6 +225,7 @@ Well, I write blogs with the perspective of improving myself at every point of t
 </td>-->
 </tr>
 </table>
+
 
 
 
